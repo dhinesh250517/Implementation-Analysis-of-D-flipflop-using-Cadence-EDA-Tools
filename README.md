@@ -44,16 +44,17 @@ The aim is to design, implement, and analyze a D flip-flop using Cadence EDA too
 ![image](https://github.com/user-attachments/assets/ddf3603b-bdfd-41f2-8a98-4ad93862fd9f)
 
 ### 2. Schematic of D Flip-Flop
-<img width="1365" height="767" alt="3OUT" src="https://github.com/user-attachments/assets/01d085b3-9e3a-425f-a80e-075468f62b49" />
+<img width="1365" height="767" alt="circuit3" src="https://github.com/user-attachments/assets/487a1235-28ac-4ec3-9672-0c7ee46764df" />
+
 
 
 
 ### 3. Transient Response Setup
 
-<img width="408" height="479" alt="3dappi1" src="https://github.com/user-attachments/assets/ce11b746-3a76-44e6-822f-fa1a13515ef2" />
+<img width="690" height="505" alt="exp3d" src="https://github.com/user-attachments/assets/77bec198-652f-4648-9aae-a2e916c00056" />
 
+<img width="1365" height="767" alt="tans3" src="https://github.com/user-attachments/assets/459b1551-0509-4e78-b969-8be292bc63c5" />
 
-<img width="1365" height="767" alt="2dappi2" src="https://github.com/user-attachments/assets/8e1632d7-7d64-477e-8c52-acb4fb82f6a1" />
 
 
 
@@ -61,7 +62,8 @@ The aim is to design, implement, and analyze a D flip-flop using Cadence EDA too
 ## Output
 
 ### 1. Transient Analysis Output
-<img width="1270" height="578" alt="3outt" src="https://github.com/user-attachments/assets/d6bdced5-356a-436c-a3cd-e45d1503e126" />
+<img width="1365" height="767" alt="output3" src="https://github.com/user-attachments/assets/7899e48b-0b5c-4c6c-80a2-b3864b6f76b6" />
+
 
 
 
